@@ -6,12 +6,12 @@ directory is its own Chrome extension.
 ## Installation
 ### GitHub
 
-1. Go to chrome://extensions.
+1. Go to [chrome://extensions](chrome://extensions).
 2. Click on "Load unpacked extensions...".
 3. Pick the directory containing the manifest for the extension you want to
 enable.
 4. Logout and then login again. (This may not be necessary.)
-5. Go to chrome://settings/languages.
+5. Go to [chrome://settings/languages](chrome://settings/languages).
 6. Add the relevant language, e.g. French for the bepo keyboard layout.
 7. Select the relevant keyboard layout and input method.
 8. Optionally, remove any keyboard layouts or input methods that are no longer
